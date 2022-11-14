@@ -1,0 +1,98 @@
+/*
+  The CSS in this style tag is based off of Bear Blog's default CSS.
+  https://github.com/HermanMartinus/bearblog/blob/297026a877bc2ab2b3bdfbd6b9f7961c350917dd/templates/styles/blog/default.css
+  License MIT: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md
+ */
+
+:root {
+  --text: #454444;
+  --primary-bg: #efdbcf;
+  --secondary-bg: #c7b88c;
+}
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  margin: auto;
+  margin-block-start: 20px;
+  text-align: left;
+  background-color: var(--primary-bg);
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  line-height: 1.5;
+  color: var(--text);
+}
+
+a {
+  color: #3273dc;
+}
+nav a {
+  margin-right: 10px;
+}
+textarea {
+  width: 100%;
+  font-size: 16px;
+}
+input {
+  font-size: 16px;
+}
+content {
+  line-height: 1.6;
+}
+table {
+  width: 100%;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+code {
+  padding: 2px 5px;
+  background-color: #f2f2f2;
+}
+pre {
+  padding: 1rem;
+}
+pre > code {
+  all: unset;
+}
+blockquote {
+  border: 1px solid #999;
+  color: #222;
+  padding: 2px 0px 2px 20px;
+  margin: 0px;
+  font-style: italic;
+}
+.container {
+  padding-inline-start: 20px;
+  padding-inline-end: 20px;
+  max-width: 620px;
+  margin: auto;
+}
+.lang-select {
+  padding: 0.5rem;
+  width: 100%;
+  display: block;
+  border-radius: 4px;
+  /** for the dropdown indicator */
+  appearance: none;
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
+  background-repeat: no-repeat;
+  background-position: right 1rem center;
+  background-size: 1em;
+}
+
+.img {
+  display: block;
+  max-width: 620px;
+  margin: auto;
+  /* border-radius: 4px; */
+  width: 100%;
+}
+
+.button {
+  background-color: var(--secondary-bg);
+}
+
+.footer {
+  padding-block-start: 40px;
+}
