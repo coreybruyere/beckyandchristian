@@ -1,7 +1,7 @@
 ---
 layout: "../layouts/BlogPost.astro"
 title: "Sing a Song"
-description: "Lorem ipsum dolor sit amet"
+description: "Sing a song"
 ---
 
 # Song 1
