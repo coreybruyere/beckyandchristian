@@ -128,6 +128,7 @@ button,
 
 .footer {
   display: flex;
+  gap: 0.25rem;
   justify-content: space-between;
   padding-block-start: 40px;
   padding-block-end: 20px;
