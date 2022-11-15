@@ -5,7 +5,11 @@
   },
   "home": {
     "title": "Capture the love!",
-    "subtitle": "Please share your photos with Becky and Christian by using this website to upload photos their wedding! You can find links to their wedding registry and wedding schedule here as well!",
-    "smallFooter": "Having issues with photo upload? Feel free to <a href='https://drive.google.com/drive/folders/1v7Pn2NTIcdxFhGxUnFbVF-ClDzY26nYy?usp=sharing'/>upload to Google Photos</a>."
+    "subtitle": "Please share your photos with Becky and Christian by using this website to upload photos you captured from their wedding! You can find links to their wedding registry and wedding schedule here as well!",
+    "smallFooter": "<small>Having issues with photo upload? Feel free to <a href='https://drive.google.com/drive/folders/1v7Pn2NTIcdxFhGxUnFbVF-ClDzY26nYy?usp=sharing'/>upload to Google Photos</a></small>.",
+    "upload": "Photo Upload",
+    "registry": "Wedding Registry",
+    "info": "Wedding Info",
+    "sing": "Sing a Song"
   }
 }

@@ -1,13 +1,18 @@
 ---
 const today = new Date();
+import { Trans, HeadHrefLangs } from "astro-i18next/components";
 ---
 
-<footer>
-	&copy; {today.getFullYear()} YOUR NAME HERE. All rights reserved.
+<footer class="container footer">
+  <Trans i18nKey="home.smallFooter">
+    Having issues with photo upload? Feel free to <a
+      href="https://drive.google.com/drive/folders/1v7Pn2NTIcdxFhGxUnFbVF-ClDzY26nYy?usp=sharing"
+    ></a>upload to Google Photos</Trans
+  >
 </footer>
 <style>
-	footer {
-		padding: 25px;
-		text-align: center;
-	}
+  footer {
+    padding: 25px;
+    text-align: center;
+  }
 </style>

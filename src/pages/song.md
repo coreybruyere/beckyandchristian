@@ -2,16 +2,165 @@
 layout: "../layouts/BlogPost.astro"
 title: "Sing a Song"
 description: "Lorem ipsum dolor sit amet"
-updatedDate: "August 08 2022"
-heroImage: "/placeholder-about.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+# Song 1
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+On the day
+\
+That you were born
+\
+All the family
+\
+Was next door
+\
+And your mom
+\
+Was to explode
+\
+Becky is coming
+\
+Hurry up
+\
+\
+You grew up
+\
+In LA town
+\
+You're a gringa
+\
+All around
+\
+And you dream
+\
+To live so long
+\
+With your loving Mr. Wrong
+\
+\
+[CHORUS]
+\
+We all want to
+\
+Marry a millionaire
+\
+Marry a millionaire (2)
+\
+We all want to
+\
+Marry a millionaire
+\
+Marry a millionaire (2)
+\
+\
+You work hard
+\
+For every penny
+\
+Don't forget
+\
+You will be many
+\
+At the end
+\
+You are not alone
+\
+There is forever
+\
+Mr. Wrong
+\
+\
+[CHORUS]
+\
+\
+All I want
+\
+Is wish you well
+\
+I know honey
+\
+Ring the bell
+\
+All your dreams
+\
+Will be fulfilled
+\
+Ain't no limit
+\
+Please believe
+\
+\
+[CHORUS]
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+# Song 2
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
-
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+Thursday evening all with a luck
+\
+Beck and Christian will tie the knot
+\
+Hey, hey, hey, it's a beautiful day
+\
+\
+They love surfing over thhe waves
+\
+They hike mountains and fish on the lakes
+\
+Hey, hey, hey, it's a beautiful day!
+\
+\
+They met when life was a joy ride
+\
+They were young carefree high school sweethearts
+\
+It was for prom that Christian wrote on the street
+\
+Will you be my date, oh ma it's a beautiful day!
+\
+\
+Camping, laughing always with friends
+\
+Nature lovers, sun, wine, or rain
+\
+Hey, hey, hey, it's a beautiful day!
+\
+\
+Skiing, diving, who knows what else
+\
+Always planning crazy affairs
+\
+Hey, hey, hey, it's a beautiful day!
+\
+\
+Chris-ti-an pick up your mess
+\
+I am tired of cleaning after you left
+\
+Gordita please don't yell, I am in the zone
+\
+Oh oh oh oh ma, ma, ma, ma it's a beautiful day!
+\
+\
+Time goes by and we have great hope
+\
+Becky and Christian will grow to be more
+\
+Hey, hey, hey, it's a beautiful day!
+\
+\
+Growing older they will stay strong
+\
+Business savvy will stay afloat
+\
+Hey, hey, hey, it's a beautiful day!
+\
+\
+Chris-ti-an pick up your mess
+\
+I am tired of cleaning after you left
+\
+Gordita please don't yell, I am in the zone
+\
+Oh oh oh oh ma, ma, ma, ma it's a beautiful day!
+\
+\
+Oh oh oh ma, ma, ma, ma it's a beautiful day!
