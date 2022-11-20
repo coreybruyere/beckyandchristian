@@ -15,12 +15,20 @@ changeLanguage("es");
     <BaseHead title={t("home.title")} description={SITE_DESCRIPTION} />
     <HeadHrefLangs />
   </head>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-TFBYL4GQZH"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-TFBYL4GQZH');
+  </script>
   <body>
     <Header title={t("home.title")} />
 
     <main>
       <div class="container">
-        <h1 style={{ fontSize: "clamp(2.25rem, 2vw + 1rem, 3.5rem);" }}>
+        <h1 style={{ fontSize: "clamp(2rem, 2vw + 1rem, 3.5rem);" }}>
           {t("home.title")}&nbsp;📸
         </h1>
         <img
