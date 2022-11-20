@@ -20,8 +20,8 @@ const { title, description, image = "/wedding-photo.jpg" } = Astro.props;
 <meta name="generator" content={Astro.generator} />
 
 <!-- Primary Meta Tags -->
-<title>{t("site.title")}</title>
-<meta name="title" content={t("site.title")} />
+<title>{title || t("site.title")}</title>
+<meta name="title" content={title || t("site.title")} />
 <meta name="description" content={t("site.description")} />
 
 <!-- Open Graph / Facebook -->
