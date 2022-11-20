@@ -12,17 +12,10 @@ changeLanguage("es");
 <!DOCTYPE html>
 <html lang={i18next.language}>
   <head>
-    <BaseHead title={t("home.title")} description={SITE_DESCRIPTION} />
+    <BaseHead title={t("site.title")} description={t("site.description")} />
     <HeadHrefLangs />
   </head>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-TFBYL4GQZH"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
 
-    gtag('config', 'G-TFBYL4GQZH');
-  </script>
   <body>
     <Header title={t("home.title")} />
 
