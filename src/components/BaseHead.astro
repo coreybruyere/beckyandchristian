@@ -10,7 +10,7 @@ export interface Props {
   image?: string;
 }
 
-const { title, description, image = "/wedding-photo.jpg" } = Astro.props;
+const { title, description, image = "/chris-lyss.jpg" } = Astro.props;
 ---
 
 <!-- Global Metadata -->
@@ -38,15 +38,9 @@ const { title, description, image = "/wedding-photo.jpg" } = Astro.props;
 <meta property="twitter:description" content={description} />
 <meta property="twitter:image" content={new URL(image, Astro.url)} />
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Gudea&family=Playfair+Display:ital@0;1&display=swap" rel="stylesheet">
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-TFBYL4GQZH"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-TFBYL4GQZH');
-</script>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Fasthand&display=swap"
+  rel="stylesheet"
+/>

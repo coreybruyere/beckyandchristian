@@ -5,12 +5,12 @@
  */
 
 :root {
-  --text: #454444;
-  --primary-bg: #efdbcf;
-  --secondary-bg: #c7b88c;
+  --text: #7d5746;
+  --primary-bg: #efe8e2;
+  --secondary-bg: #ddcdc4;
 }
 body {
-  font-family: "Playfair Display", serif;
+  font-family: 'DM Serif Display', serif;
   margin: auto;
   margin-block-start: 20px;
   text-align: left;
@@ -27,11 +27,14 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Gudea', sans-serif;
+  font-family: 'Fasthand', cursive;
+
 }
 
 a {
   color: var(--text);
+  font-family: 'DM Serif Display', serif;
+
 }
 nav a {
   margin-right: 10px;
@@ -117,7 +120,8 @@ button,
   border-radius: 4px;
   border: 2px solid #bba46f;
   /* background-color: var(--secondary-bg); */
-  font-family: "Roboto", sans-serif;
+  font-family: 'DM Serif Display', serif;
+
   cursor: pointer;
   text-align: center;
 }

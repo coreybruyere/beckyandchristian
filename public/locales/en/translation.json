@@ -1,15 +1,14 @@
 {
   "site": {
-    "title": "Photo upload for Becky and Christian's Wedding!",
-    "description": "Upload photos here for Becky and Christian's wedding weekend."
+    "title": "Photo upload for Christian and Alyssa's Wedding!",
+    "description": "Upload photos here for Christian and Alyssa's wedding weekend."
   },
   "home": {
-    "title": "Capture The Love!",
-    "subtitle": "Please share your photos with Becky and Christian by using this website to upload photos you've captured from their wedding! You can find links to their wedding registry and wedding schedule here as well.",
-    "smallFooter": "<small>Having issues with photo upload? Feel free to <a href='https://drive.google.com/drive/folders/1v7Pn2NTIcdxFhGxUnFbVF-ClDzY26nYy?usp=sharing'/>upload to Google Photos</a>.</small>",
+    "title": "capture the love",
+    "subtitle": "Please share your photos with Christian and Alyssa by using this website to upload photos you've captured from their wedding! You can find links to their wedding registry and wedding schedule here as well.",
+    "smallFooter": "<small>Having issues with photo upload? Feel free to <a href='https://drive.google.com/drive/folders/1LZ4sCml1yyunYYtZ1PtJeNFEcR5vjNdq?usp=sharing'/>upload to Google Photos</a>.</small>",
     "upload": "Photo Upload",
     "registry": "Wedding Registry",
-    "info": "Wedding Info",
-    "sing": "Sing a Song"
+    "info": "Wedding Info"
   }
 }

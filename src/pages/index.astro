@@ -5,6 +5,8 @@ import Footer from "../components/Footer.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../config";
 import i18next, { t, changeLanguage } from "i18next";
 import { Trans, HeadHrefLangs } from "astro-i18next/components";
+import { Image } from "astro:assets";
+import localBirdImage from "../../images/subfolder/localBirdImage.png";
 
 changeLanguage("en");
 ---
@@ -21,26 +23,33 @@ changeLanguage("en");
 
     <main>
       <div class="container">
-        <h1 style={{ fontSize: "clamp(2rem, 2vw + 1rem, 3.5rem);" }}>
-          {t("home.title")}&nbsp;📸
+        <h1
+          style={{
+            fontSize: "clamp(3rem, 5vw + 1rem, 4.5rem)",
+            marginBottom: "1rem",
+            textAlign: "center",
+          }}
+        >
+          {t("home.title")}
+          <!-- &nbsp;📸 -->
         </h1>
         <img
           class="img"
-          src="/wedding-photo.jpg"
+          src="/chris-lyss.jpg"
           height={410}
           width={620}
-          alt="Christian and Becky"
+          alt="Christian and Alyssa"
         />
-        <p style={{ fontSize: "clamp(1.25rem, 2vw + 1rem, 1.75rem);" }}>
+        <p style={{ fontSize: "clamp(1.5rem, 2.25vw + 1rem, 1.75rem);" }}>
           <Trans i18nKey="home.subtitle">
             Please share your photos with us by using this website to upload
-            photos for Becky and Christian's wedding! You can find links to
+            photos for Christian and Alyssa's wedding! You can find links to
             their wedding registry and wedding schedule here as well!
           </Trans>
         </p>
         <div class="stack">
           <a
-            href="https://weduploader.com/upload/qrPj3Y7KpVAfI1Jb"
+            href="https://weduploader.com/upload/IzaPcVVwdmzfRM1w"
             class="button"
             ><svg
               version="1.1"
@@ -58,7 +67,7 @@ changeLanguage("en");
             </svg>{t("home.upload")}
           </a>
           <a
-            href="https://withjoy.com/becky-and-christian-ckwycmkxr000s06apwe3d4647/registry"
+            href="https://www.zola.com/wedding/bruyerewedding/registry"
             class="button"
             ><svg
               version="1.1"
@@ -77,7 +86,7 @@ changeLanguage("en");
             {t("home.registry")}</a
           >
           <a
-            href="https://withjoy.com/becky-and-christian-ckwycmkxr000s06apwe3d4647/story"
+            href="https://www.zola.com/wedding/bruyerewedding/event"
             class="button"
             ><svg
               version="1.1"
@@ -98,23 +107,6 @@ changeLanguage("en");
               ></path>
             </svg>
             {t("home.info")}</a
-          >
-          <a href="/song" class="button"
-            ><svg
-              version="1.1"
-              xmlns="http://www.w3.org/2000/svg"
-              width="16"
-              height="16"
-              viewBox="0 0 16 16"
-              fill="currentColor"
-              aria-hidden="true"
-            >
-              <title>music</title>
-              <path
-                d="M15 0h1v11.5c0 1.381-1.567 2.5-3.5 2.5s-3.5-1.119-3.5-2.5c0-1.381 1.567-2.5 3.5-2.5 0.979 0 1.865 0.287 2.5 0.751v-5.751l-8 1.778v7.722c0 1.381-1.567 2.5-3.5 2.5s-3.5-1.119-3.5-2.5c0-1.381 1.567-2.5 3.5-2.5 0.979 0 1.865 0.287 2.5 0.751v-9.751l9-2z"
-              ></path>
-            </svg>
-            {t("home.sing")}</a
           >
         </div>
       </div>

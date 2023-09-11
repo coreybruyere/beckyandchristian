@@ -6,6 +6,6 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://beckyandchristian.com/",
+  site: "https://christianandalyssa.com/",
   integrations: [mdx(), sitemap(), astroI18next()],
 });
